@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Singh",
+    "category": "Singer",
+    "location": "Mumbai",
+    "priceRange": "Rs.15K - Rs.25K"
+  },
+  {
+    "id": 2,
+    "name": "Riya Das",
+    "category": "Dancer",
+    "location": "Delhi",
+    "priceRange": "Rs.10K - Rs.20K"
+  },
+  {
+    "id": 3,
+    "name": "Kabir Sharma",
+    "category": "DJ",
+    "location": "Bangalore",
+    "priceRange": "Rs.30K - Rs.50K"
+  },
+  {
+    "id": 4,
+    "name": "Megha Verma",
+    "category": "Speaker",
+    "location": "Chennai",
+    "priceRange": "Rs.5K - Rs.15K"
+  },
+  {
+    "id": 5,
+    "name": "Aditya Roy",
+    "category": "Singer",
+    "location": "Kolkata",
+    "priceRange": "Rs.10K - Rs.20K"
+  },
+  {
+    "id": 6,
+    "name": "Sara Khan",
+    "category": "Dancer",
+    "location": "Mumbai",
+    "priceRange": "Rs.5K - Rs.15K"
+  },
+  {
+    "id": 7,
+    "name": "DJ Rhythm",
+    "category": "DJ",
+    "location": "Hyderabad",
+    "priceRange": "Rs.30K - Rs.50K"
+  },
+  {
+    "id": 8,
+    "name": "Rahul Kapoor",
+    "category": "Speaker",
+    "location": "Delhi",
+    "priceRange": "Rs.15K - Rs.25K"
+  },
+  {
+    "id": 9,
+    "name": "Pooja Gupta",
+    "category": "Singer",
+    "location": "Bangalore",
+    "priceRange": "Rs.5K - Rs.15K"
+  },
+  {
+    "id": 10,
+    "name": "Vivek Mehta",
+    "category": "Dancer",
+    "location": "Chennai",
+    "priceRange": "Rs.10K - Rs.20K"
+  },
+  {
+    "id": 11,
+    "name": "DJ Spin",
+    "category": "DJ",
+    "location": "Pune",
+    "priceRange": "Rs.15K - Rs.25K"
+  },
+  {
+    "id": 12,
+    "name": "Anjali Singh",
+    "category": "Speaker",
+    "location": "Mumbai",
+    "priceRange": "Rs.30K - Rs.50K"
+  },
+  {
+    "id": 13,
+    "name": "Rohan Bhatia",
+    "category": "Magician",
+    "location": "Jaipur",
+    "priceRange": "Rs.10K - Rs.20K"
+  }
+]
